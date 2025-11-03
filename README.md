@@ -41,8 +41,8 @@ and instantly get an estimated insurance cost, visualized through interactive ch
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<parshva106>/<Medical-Insurance-Cost-Predictor>.git
+cd <Medical-Insurance-Cost-Predictor>
 2️⃣ Install dependencies
 bash
 Copy code
