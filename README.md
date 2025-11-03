@@ -5,7 +5,7 @@ An interactive **Streamlit web app** that predicts individual **medical insuranc
 ---
 
 ## 🚀 Live Demo
-*(Add your Streamlit Cloud or Hugging Face Space link here once deployed)*  
+*(https://medical-insurance-cost-predictor-fbgvddmpxnfilhuyamahmp.streamlit.app/)*  
 👉 [Try it Online](#)
 
 ---
